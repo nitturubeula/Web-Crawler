@@ -1,1 +1,2 @@
-# Web-Crawler
+# About my first project in Github
+The purpose of my web crawler project was to create a program that can automatically visit websites, collect information like links or text, and store the data for further use. It was designed to understand how websites are structured, how to connect to them through code, and how to extract useful content without manually browsing. This project helped me learn the basics of networking, data extraction, and handling large amounts of information efficiently.
